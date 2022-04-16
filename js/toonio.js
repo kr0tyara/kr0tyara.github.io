@@ -1,1 +1,1 @@
-alert(window.Telegram.WebApp.toString());
+alert(JSON.stringify(window.Telegram.WebApp));
